@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-memory
 Version:	1.2
-Release:	9
+Release:	10
 Summary:	Containers for data in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/memory
