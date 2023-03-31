@@ -1,6 +1,6 @@
 Name:		texlive-memory
 Version:	30452
-Release:	1
+Release:	2
 Summary:	Containers for data in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/memory
