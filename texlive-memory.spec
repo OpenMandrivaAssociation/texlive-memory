@@ -3,7 +3,7 @@ Version:	30452
 Release:	2
 Summary:	Containers for data in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/memory
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/memory
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/memory.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/memory.doc.r%{version}.tar.xz
